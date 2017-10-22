@@ -1,0 +1,45 @@
+h1 {
+  font-family: 'Roboto', sans-serif;
+  margin-left: 3px;
+  font-size: 60px;
+}
+
+a {
+  text-decoration: none;
+  padding: 15px;
+  font-family: 'Roboto', sans-serif;
+  display: block;
+  color: black;
+  font-size: 20px;
+}
+
+ul {
+  float: left;
+  text-align: left;
+  line-height: 30px;
+  width: 60%;
+  padding: 3px;
+}
+
+li {
+  background-color: #EFEFFF;
+  display: block;
+  /*border: 1px red solid;*/
+  display: block;
+}
+
+li:hover {
+  background-color: #D5D5DC;
+}
+
+.stay {
+  background-color: #F4A300;
+}
+
+.stay a {
+  color: white;
+}
+
+.stay a:hover {
+  color: black;
+}
